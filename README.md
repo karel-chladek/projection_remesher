@@ -9,5 +9,6 @@ Hopefully in future i can manage to increase time efficiency and add adaptive pr
 
 # about
 Project was created when i tried to find easy algorithm for merging several objects for Fidentis project at Fakulty of Informatics Masaryk University .
+
 Visualizing program was cocreated by Filip Mrazek 
 
